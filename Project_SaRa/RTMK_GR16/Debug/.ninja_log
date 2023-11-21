@@ -1,0 +1,36 @@
+# ninja log v5
+24	49	6982827848508659	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/System/cstartup.o	1c2586d8bad23fed
+1	33	6982827848294500	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/System/context_switching_functions_march_2019.o	2a03f73f0c01f9da
+3	307	7006087499211814	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/timing_functions.o	59d9b0ff06c60e8c
+1	28	7001489372752679	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/System/context_switching_functions_march_2019.o	e2ba5cac022ec9e2
+56	143	6982827849386084	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/System/exceptions.o	bebdf9460f89aad0
+16	232	6982827850162787	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/Source/kernel_functions.o	24062d5b632ef85f
+8	247	6982827850331660	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/Source/mailbox_functins.o	aff03fbf8d106a06
+241	312	6982827851089952	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/Source/main.o	4fb47fb317d72d5f
+150	275	6982827850588201	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/Source/timing_functions.o	6512e47529dba984
+42	283	6982827850501782	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/System/system_sam3x.o	ec99b564d6e8863d
+10	215	7001489374502453	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/kernel_functions.o	60c7700522b9f9e7
+255	419	6982827852093203	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Obj/System/startup_sam3x.o	f8328acc914eb209
+427	537	6982827853306870	D:/University/2nd_year/2nd_term/Computer Systems Engineering II/Project/Project_SaRa/RTMK_GR16/Debug/Exe/RTMK_GR16.out	eedc7f8fa616857a
+6	22	7001489372796885	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/System/cstartup.o	66ba6f0e899b7240
+31	189	7001489374391333	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/System/exceptions.o	a0aef78521d108a6
+9	709	7001491510967885	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/mailbox_functins.o	bd11439d9764d9d1
+192	310	7001489375601293	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/System/startup_sam3x.o	9c602e98e0fa02de
+219	324	7001489375750711	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/System/system_sam3x.o	489001760a724eeb
+2	299	7006080587699408	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+313	399	7006087500444282	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+27	324	7006094603749933	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/timing_functions.o	59d9b0ff06c60e8c
+3	420	7006094604675926	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+424	494	7006094605379092	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+2	315	7006095061486209	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+318	369	7006095062051124	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+3	251	7006096149247313	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+255	304	7006096149800074	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+3	270	7006097150569680	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+273	329	7006097151220480	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+2	309	7006102626575998	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+312	376	7006102627308126	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+4	281	7006104660734726	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+284	329	7006104661218422	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502
+2	506	7006105797723586	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Obj/Source/main.o	3d5cd6d17a1cd513
+511	557	7006105798336188	C:/Users/sarao/Desktop/DST_2/RTMK_GR16/Debug/Exe/RTMK_GR16.out	ea089a856fb99502

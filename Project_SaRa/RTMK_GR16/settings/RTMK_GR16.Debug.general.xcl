@@ -1,0 +1,17 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armJLINK.dll" 
+
+"C:\Users\sarao\Desktop\DST_2\RTMK_GR16\Debug\Exe\RTMK_GR16.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/debugger/Microchip/SAM3XA.dmac" 
+
+--macro="D:\University\2nd_year\2nd_term\Computer Systems Engineering II\Project\Project_SaRa\RTMK_GR16\arduino_due_x_sram.mac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/flashloader/Microchip/sam3x8/sam3x8-flash.board" 
+
+
+
+
